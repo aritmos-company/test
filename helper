@@ -1,1 +1,1 @@
-"new commit: $( git branch | grep \* ): $(date)"
+"$( git branch | grep \* ): $(date)"
